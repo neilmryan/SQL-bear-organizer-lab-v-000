@@ -34,7 +34,7 @@ end
 
 def selects_bear_that_killed_Tim
   "SELECT name
-  from bears
+  FROM bears
   WHERE name = NULL;"
 end
 
